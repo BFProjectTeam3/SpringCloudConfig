@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-cloud-config-server
+
+test:
+  username: Jack
