@@ -2,5 +2,5 @@ spring:
   application:
     name: spring-cloud-config-server
 
-test:
+user:
   username: Jack
